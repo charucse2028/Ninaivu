@@ -1,0 +1,6 @@
+{
+  "name": "Ninaivu – Smart Item Memory Assistant",
+  "description": "Ninaivu (நினைவு) helps you remember the possible locations where you keep your everyday items with bilingual English and Tamil voice search, photos, and location tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
